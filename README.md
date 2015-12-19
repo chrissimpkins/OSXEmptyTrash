@@ -4,7 +4,7 @@ Empty Trash is a trash emptying application for OS X that bypasses the `Item in 
 
 ### Source Description
 
-Empty Trash uses a very simple shell script to remove the OS X trash directories and the OS X application was built with the open source [Platypus](https://github.com/sveinbjornt/Platypus) application bundling tool.
+Empty Trash uses a very simple shell script to remove the OS X trash directories.  The OS X application was built with the open source [Platypus](https://github.com/sveinbjornt/Platypus) application bundling tool.
 
 The shell script source is available [here](https://github.com/chrissimpkins/OSXEmptyTrash/blob/master/src/empty_trash.sh).
 
