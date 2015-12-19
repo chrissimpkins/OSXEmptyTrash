@@ -16,7 +16,9 @@ Clone the git repository locally with the command:
 $ git clone https://github.com/chrissimpkins/OSXEmptyTrash
 ```
 
-then drag and drop the Empty Trash.app application in the repository `build` directory to a directory on your OS X system.  The Desktop is a pretty handy site.
+or [download the repository ZIP archive file](https://github.com/chrissimpkins/OSXEmptyTrash/archive/master.zip) and unpack it locally on your system.
+
+Next, drag and drop the Empty Trash.app application in the repository `build` directory to a directory on your OS X system.  The Desktop is a pretty handy site.
 
 <img src="https://raw.githubusercontent.com/chrissimpkins/OSXEmptyTrash/master/img/emptytrash-install.gif" alt="Install Empty Trash on OS X" width="750">
 
