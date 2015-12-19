@@ -34,3 +34,7 @@ Double click on the Empty Trash icon.  Done.
 If you come across a problem with the application, please [submit an issue report](https://github.com/chrissimpkins/OSXEmptyTrash/issues/new) with plenty of details.
 
 
+### License
+
+[MIT License](https://github.com/chrissimpkins/OSXEmptyTrash/blob/master/LICENSE)
+
