@@ -8,6 +8,10 @@ Empty Trash uses a very simple shell script to remove the OS X trash directories
 
 The shell script source is available [here](https://github.com/chrissimpkins/OSXEmptyTrash/blob/master/src/empty_trash.sh).
 
+### System Requirements
+
+Mac OS X 10.7 or later and support for 64-bit Intel binaries
+
 ### Install
 
 Clone the git repository locally with the command:
