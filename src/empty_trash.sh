@@ -6,4 +6,13 @@
 # MIT License
 
 rm -rf ~/.Trash
+
+if (( $? )); then
+	echo "ALERT:Failed to empty ~/.Trash"
+fi
+
 rm -rf /Volumes/*/.Trashes
+
+if (( $? )); then
+	echo "ALERT:Failed to empty /Volumes/*/.Trashes"
+fi
