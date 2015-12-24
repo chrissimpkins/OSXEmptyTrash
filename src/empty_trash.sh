@@ -5,13 +5,13 @@
 # Copyright 2015 Christopher Simpkins
 # MIT License
 
-rm -rf ~/.Trash
+rm -rf "~/.Trash/*"
 
 if (( $? )); then
 	echo "ALERT:Failed to empty ~/.Trash"
 fi
 
-rm -rf /Volumes/*/.Trashes
+rm -rf "/Volumes/*/.Trashes/*"
 
 if (( $? )); then
 	echo "ALERT:Failed to empty /Volumes/*/.Trashes"
