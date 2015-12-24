@@ -29,7 +29,7 @@
 	<key>ExecutablePath</key>
 	<string>/usr/local/share/platypus/ScriptExec</string>
 	<key>IconPath</key>
-	<string>/Applications/Platypus.app/Contents/Resources/PlatypusDefault.icns</string>
+	<string>/Users/ces/Library/Application Support/Platypus/PlatypusIcon-6013223.icns</string>
 	<key>Identifier</key>
 	<string>com.csimpkins.EmptyTrash</string>
 	<key>Interpreter</key>
@@ -47,7 +47,7 @@
 	<key>PromptForFileOnLaunch</key>
 	<false/>
 	<key>RemainRunning</key>
-	<true/>
+	<false/>
 	<key>ScriptArgs</key>
 	<array/>
 	<key>ScriptPath</key>
@@ -55,7 +55,7 @@
 	<key>Secure</key>
 	<false/>
 	<key>ShowInDock</key>
-	<false/>
+	<true/>
 	<key>StatusItemDisplayType</key>
 	<string>Text</string>
 	<key>StatusItemIcon</key>
